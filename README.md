@@ -15,4 +15,4 @@ GO TO: [project_file](https://github.com/Taiwo-Victoria/DATA-ANALYSIS-PROJECTS-W
 >> 2. Wage increase or annual compensation for Non-smokers
 >> 3. A dashboard showing the employees health and absenteeism details
 #### Tools Used: Microsoft SQL Server, Microsoft Power BI
-GO TO: [project_file]((https://github.com/Taiwo-Victoria/DATA-ANALYSIS-PROJECTS-WITH-SQL/tree/main/Analyzing%20Employee%20Health%20and%20Absenteeism)
+GO TO: [project_file](https://github.com/Taiwo-Victoria/DATA-ANALYSIS-PROJECTS-WITH-SQL/tree/main/Analyzing%20Employee%20Health%20and%20Absenteeism)
