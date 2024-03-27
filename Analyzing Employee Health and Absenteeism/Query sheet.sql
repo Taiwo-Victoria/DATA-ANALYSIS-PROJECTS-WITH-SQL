@@ -41,7 +41,7 @@ wage increase per hour = 983,221 / 1,426,880 = 0.689 per hour
 wage increase in a year for one non-smoker = 0.689 * 2080 = 1433.12 per year
 */
 
--- Optimizing the Query to View all the Absenteeism dataset focusing on needed attributes
+-- Optimizing the Query to View all the Absenteeism dataset focusing on needed attributes for the dashboard
 SELECT a.ID,
 		r.Number,
 		a.Month_of_absence,
